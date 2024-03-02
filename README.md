@@ -1,0 +1,2 @@
+# NammaSQL
+SQL Portfolio project
